@@ -8,6 +8,14 @@ Hoping this can also help you to use sympy
 
 PR is welcomed. The format can refer to the existing documents
 
+The document prototype can be found at the following URL
+
+<https://reference.wolfram.com/language/ref/[function_name].html.en?source=footer>
+
+For example:
+
+<https://reference.wolfram.com/language/ref/Sin.html.en?source=footer>
+
 ---
 
 有感于每次使用 sympy 都要查一遍的痛苦，就打算自己照着 Mathematica 的帮助文件写一份 PyF1
@@ -17,3 +25,11 @@ PR is welcomed. The format can refer to the existing documents
 希望这个项目能帮到你
 
 PR 的格式可参考已经有的文档
+
+文档原型可以在以下网址查到
+
+<https://reference.wolfram.com/language/ref/[function_name].html.en?source=footer>
+
+例如
+
+<https://reference.wolfram.com/language/ref/Sin.html.en?source=footer>
