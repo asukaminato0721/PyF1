@@ -33,3 +33,22 @@ PR 的格式可参考已经有的文档
 例如
 
 <https://reference.wolfram.com/language/ref/Sin.html.en?source=footer>
+
+已完成的
+
+| Python 函数名 | 对应 Mathematica 函数名 |
+| :------------ | :---------------------- |
+| atan,         | ArcTan                  |
+| atan2(x,y)    | ArcTan[y,x]             |
+| sin           | Sin                     |
+| cos           | Cos                     |
+| hyper         | HypergeometricPFQ       |
+| tan           | Tan                     |
+| sec           | Sec                     |
+
+施工中
+
+| Python 函数名 | 对应 Mathematica 函数名 |
+| :------------ | :---------------------- |
+| plot          | Plot                    |
+| plot3d        | Plot3D                  |
