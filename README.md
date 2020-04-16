@@ -45,6 +45,8 @@ PR 的格式可参考已经有的文档
 | hyper         | HypergeometricPFQ       |
 | tan           | Tan                     |
 | sec           | Sec                     |
+| rf            | Pochhammer              |
+
 
 施工中
 
