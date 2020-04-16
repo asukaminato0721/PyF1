@@ -38,7 +38,7 @@ PR 的格式可参考已经有的文档
 
 | Python 函数名 | 对应 Mathematica 函数名 |
 | :------------ | :---------------------- |
-| atan,         | ArcTan                  |
+| atan          | ArcTan                  |
 | atan2(x,y)    | ArcTan[y,x]             |
 | sin           | Sin                     |
 | cos           | Cos                     |
@@ -48,7 +48,9 @@ PR 的格式可参考已经有的文档
 
 施工中
 
-| Python 函数名 | 对应 Mathematica 函数名 |
-| :------------ | :---------------------- |
-| plot          | Plot                    |
-| plot3d        | Plot3D                  |
+| Python 函数名           | 对应 Mathematica 函数名 |
+| :---------------------- | :---------------------- |
+| plot                    | Plot                    |
+| plot3d                  | Plot3D                  |
+| parsing(parse_expr,etc) | ToExpression            |
+| summation               | Sum                     |
