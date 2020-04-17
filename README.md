@@ -36,17 +36,17 @@ PR 的格式可参考已经有的文档
 
 已完成的
 
-| Python 函数名 | 对应 Mathematica 函数名 |
-| :------------ | :---------------------- |
-| atan          | ArcTan                  |
-| atan2(x,y)    | ArcTan[y,x]             |
-| sin           | Sin                     |
-| cos           | Cos                     |
-| hyper         | HypergeometricPFQ       |
-| tan           | Tan                     |
-| sec           | Sec                     |
-| rf            | Pochhammer              |
-
+| Python 函数名  | 对应 Mathematica 函数名 |
+| :------------- | :---------------------- |
+| atan           | ArcTan                  |
+| atan2(x,y)     | ArcTan[y,x]             |
+| sin            | Sin                     |
+| cos            | Cos                     |
+| hyper          | HypergeometricPFQ       |
+| tan            | Tan                     |
+| sec            | Sec                     |
+| rf             | Pochhammer              |
+| fourier_series | FourierSeries           |
 
 施工中
 
