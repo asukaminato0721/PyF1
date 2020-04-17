@@ -7,6 +7,8 @@
 # website: http://jupyter.org/
 
 .ipynb_checkpoints
+.ipynb_checkpoints
+.mypy_cache/
 */.ipynb_checkpoints/*
 
 # IPython

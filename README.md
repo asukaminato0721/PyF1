@@ -47,6 +47,7 @@ PR 的格式可参考已经有的文档
 | sec            | Sec                     |
 | rf             | Pochhammer              |
 | fourier_series | FourierSeries           |
+| summation      | Sum                     |
 
 施工中
 
@@ -55,4 +56,5 @@ PR 的格式可参考已经有的文档
 | plot                    | Plot                    |
 | plot3d                  | Plot3D                  |
 | parsing(parse_expr,etc) | ToExpression            |
-| summation               | Sum                     |
+
+> 本项目暂时停工
