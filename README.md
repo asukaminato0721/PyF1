@@ -56,6 +56,13 @@ PR 的格式可参考已经有的文档
 | together       | Together                    |
 | apart          | Apart                       |
 | limit          | Limit                       |
+| expand_trig    | TrigExpand                  |
+| diff           | D                           |
+| series         | Series                      |
+| integrate      | Integrate                   |
+| eye            | IdentityMatrix              |
+| diag           | DiagonalMatrix              |
+
 
 施工中
 
@@ -64,5 +71,6 @@ PR 的格式可参考已经有的文档
 | plot                    | Plot                    |
 | plot3d                  | Plot3D                  |
 | parsing(parse_expr,etc) | ToExpression            |
+| dsolve                  | DSolve                  |
 
 > 本项目暂时停工
