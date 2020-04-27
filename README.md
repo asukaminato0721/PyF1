@@ -36,32 +36,32 @@ PR 的格式可参考已经有的文档
 
 已完成的
 
-| Python 函数名  | 对应 Mathematica 函数名     |
-| :------------- | :-------------------------- |
-| atan           | ArcTan                      |
-| atan2(x,y)     | ArcTan[y,x]                 |
-| sin            | Sin                         |
-| cos            | Cos                         |
-| hyper          | HypergeometricPFQ           |
-| tan            | Tan                         |
-| sec            | Sec                         |
-| rf             | Pochhammer                  |
-| fourier_series | FourierSeries               |
-| summation      | Sum                         |
-| expand         | Expand                      |
-| factor         | Factor                      |
-| simplify       | Simplify/FullSimplify       |
-| collect        | Collect                     |
-| coeff          | Coefficient/CoefficientList |
-| together       | Together                    |
-| apart          | Apart                       |
-| limit          | Limit                       |
-| expand_trig    | TrigExpand                  |
-| diff           | D                           |
-| series         | Series                      |
-| integrate      | Integrate                   |
-| eye            | IdentityMatrix              |
-| diag           | DiagonalMatrix              |
+| Python 函数名  | 对应 Mathematica 函数名             |
+| :------------- | :---------------------------------- |
+| atan           | ArcTan                              |
+| atan2(x,y)     | ArcTan[y,x]                         |
+| sin            | Sin                                 |
+| cos            | Cos                                 |
+| hyper          | HypergeometricPFQ/Hypergeometric2F1 |
+| tan            | Tan                                 |
+| sec            | Sec                                 |
+| rf             | Pochhammer                          |
+| fourier_series | FourierSeries                       |
+| summation      | Sum                                 |
+| expand         | Expand                              |
+| factor         | Factor                              |
+| simplify       | Simplify/FullSimplify               |
+| collect        | Collect                             |
+| coeff          | Coefficient/CoefficientList         |
+| together       | Together                            |
+| apart          | Apart                               |
+| limit          | Limit                               |
+| expand_trig    | TrigExpand                          |
+| diff           | D                                   |
+| series         | Series                              |
+| integrate      | Integrate                           |
+| eye            | IdentityMatrix                      |
+| diag           | DiagonalMatrix                      |
 
 
 施工中
